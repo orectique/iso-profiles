@@ -167,7 +167,7 @@ gnome-tweaks
 #gnome-sudoku
 #gnome-taquin
 #gnome-tetravex
-#hitori
+hitori
 >extra iagno
 #lightsoff
 >extra quadrapassel
@@ -197,23 +197,18 @@ adw-gtk-theme
 bibata-cursor-theme
 gnome-shell-maia
 gnome-themes-extra                 # optional for gtk2
-#gnome-wallpapers
+
 grub-theme-manjaro
 kvantum-manjaro
-#>extra illyria-wallpaper
+
 manjaro-gdm-branding
-#manjaro-gdm-theme                 # Needs updating for GNOME 42
+
 manjaro-gnome-backgrounds
-#>extra manjaro-wallpapers-18.0
+
 papirus-maia-icon-theme
 plymouth-theme-manjaro
-#qgnomeplatform-qt5
-#qgnomeplatform-qt6
 qt5ct
 qt6ct
-#>extra wallpapers-2018
-#>extra wallpapers-juhraya
-
 
 ## Applications
 
@@ -259,6 +254,9 @@ nautilus-empty-file
 >extra touche
 >extra webapp-manager
 xdg-utils
+julia
+python
+ipython
 
 ## Optional dependencies for file-roller
 >extra lrzip

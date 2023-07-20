@@ -13,3 +13,6 @@ nbd
 snapper-gui
 timeshift
 virtualbox-guest-utils
+julia
+python
+ipython

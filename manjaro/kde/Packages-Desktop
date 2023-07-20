@@ -231,6 +231,9 @@ plymouth-kcm
 #>extra thunderbird
 >extra vlc
 yakuake
+julia
+python
+ipython
 
 ## Documentation
 #manjaro-documentation-en
